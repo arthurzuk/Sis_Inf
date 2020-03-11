@@ -2,7 +2,7 @@
 
 # Integrantes:
 
-Arthur Akiyoshi Zukeram
+Arthur Akiyoshi Zukeram<br />
 Rodrigo Hideaki Ando
 
 # Descrição:
