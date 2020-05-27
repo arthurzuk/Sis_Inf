@@ -1,4 +1,4 @@
-# Segurança da informação
+﻿# Segurança da informação
 
 # Integrantes:
 
@@ -7,14 +7,5 @@ Rodrigo Hideaki Ando
 
 # Descrição:
 
-O objetivo desse projeto é desenvolver um aplicativo o qual possui como finalidade facilitar a reciclagem de dados afetados pela Lei Geral de Proteção de Dados(LGPD), de modo a garantir o cumprimento do regulamento e ao mesmo tempo minimizar as perdas do cliente. O aplicativo será capaz de excluir integralmente/parcialmente e anonimizar dados pessoais através de uma GUI.
+O aplicativo desenvolvido nesse projeto tem como objetivo facilitar a exclusão ou anonimização de dados pessoais solicitados pelos seus tituláres, como prevê o artigo 15 da nova Lei Geral de Proteção de Dados(LGPD), de modo a garantir o cumprimento do regulamento e ao mesmo tempo minimizar as perdas da empresa. O aplicativo será capaz de excluir/atualizar integralmente ou parcialmente dados armazenados em um banco MySQL através de uma GUI.
 
-# Entregas:
-
-1. Lista de ferramentas a serem utilizadas no desenvolvimento do aplicativo; Modelos de banco de dados a serem utilizado para demonstração das funcionalidades do aplicativo;
-
-2. Código básico para exclusão/anonimização de dados; Conexão MySQL/Python;
-
-3. CLI (Command Line Interface) com todas as funcionalidades do apliicativo;
-
-4. Integração do CLI em uma GUI funcional;
