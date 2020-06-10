@@ -1,0 +1,4 @@
+def get_psw():
+    return psw
+
+psw=b"Fxc2xb0xd2x0fix89xb1x92xccxux8bWxe4xe4xd4x82x1exa1x91yCxf77xb5x0cxd6x8fxa9xe7xccxc6xdex88xdamHx00xdexf5x0cxed7Sgx90Faxd6T"
